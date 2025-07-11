@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: "/monorepo-zero-react/apps/01-social-proof-section/"
 })

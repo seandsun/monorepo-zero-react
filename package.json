@@ -8,7 +8,8 @@
     "apps/*"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy-all": "node scripts/deploy-multiple-apps.js"
   },
   "keywords": [],
   "author": "",
@@ -17,5 +18,9 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
     "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "fs-extra": "^11.3.0",
+    "gh-pages": "^6.3.0"
   }
 }

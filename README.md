@@ -6,6 +6,6 @@ Monorepo para practicar React.
 
 ## Apps
 
-1.
+1. Sección de prueba social
 
 <h3 align="center">< seandsun /></h3>

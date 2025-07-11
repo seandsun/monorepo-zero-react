@@ -1,0 +1,14 @@
+# Ignorar node_modules
+node_modules/
+**/node_modules/
+
+# Otros archivos de configuración local
+.vscode/
+.idea/
+
+# Archivos de compilación
+/dist/
+.build/
+
+# Ignorar archivos temporales o de caché
+*.log

@@ -12,3 +12,6 @@ node_modules/
 
 # Ignorar archivos temporales o de caché
 *.log
+
+# Ignorar del deploy en gh-pages ya que es temporal
+gh-pages

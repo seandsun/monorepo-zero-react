@@ -38,6 +38,8 @@ En resumen, una sección de prueba social bien implementada puede ser una herram
 - JavaScript
 - React
 
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-react/apps/01-social-proof-section/)
+
 ![social proof img demo](./src/assets/images/social-proof-img.jpg)
 
 <div align="center">

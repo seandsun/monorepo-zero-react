@@ -7,6 +7,6 @@ Monorepo para practicar React.
 ## Apps
 
 1. [Sección de prueba social🔗](https://seandsun.github.io/monorepo-zero-react/apps/01-social-proof-section/)
-2. [Componente de vista previa del artículo](https://)
+2. [Componente de vista previa del artículo🔗](https://seandsun.github.io/monorepo-zero-react/apps/02-article-preview-component/)
 
 <h3 align="center">< seandsun /></h3>

@@ -17,7 +17,7 @@ Un componente de vista previa de artículo es útil por que:
 - JavaScript
 - React
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-react/apps/02-article-preview-component/)
 
 ![article preview component img demo](./src/assets/design/article-preview-component-img.jpg)
 

@@ -5,6 +5,7 @@ const path = require("path");
 const apps = [
   "01-social-proof-section",
   "02-article-preview-component",
+  "03-four-card-feature-section",
   // Agrega más apps aquí
 ];
 

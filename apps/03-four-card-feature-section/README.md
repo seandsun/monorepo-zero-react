@@ -16,7 +16,7 @@ Algunos beneficios de usar tarjetas son:
 - JavaScript
 - React
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-react/apps/03-four-card-feature-section/)
 
 ![four card feature section img demo](./src/assets/design/four-card-feature-section-img.jpg)
 

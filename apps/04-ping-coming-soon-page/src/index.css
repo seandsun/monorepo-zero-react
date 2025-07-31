@@ -1,0 +1,22 @@
+@import 'tailwindcss';
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 300 700;
+  src: url('./assets/fonts/libre-franklin/LibreFranklin-VariableFont_wght.ttf')
+    format('truetype');
+  font-display: swap;
+}
+
+@theme {
+  /* Primary */
+  --color-Blue-500: hsl(223, 87%, 63%);
+  /* Secondary */
+  --color-Blue-200: hsl(223, 100%, 88%);
+  --color-Red-400: hsl(354, 100%, 66%);
+  /* Neutral */
+  --color-Gray-400: hsl(0, 0%, 59%);
+  --color-Blue-950: hsl(209, 33%, 12%);
+
+  --font-Libre-Franklin: 'Libre Franklin';
+}

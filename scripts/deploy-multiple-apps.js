@@ -6,6 +6,7 @@ const apps = [
   "01-social-proof-section",
   "02-article-preview-component",
   "03-four-card-feature-section",
+  "04-ping-coming-soon-page",
   // Agrega más apps aquí
 ];
 

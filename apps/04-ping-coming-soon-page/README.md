@@ -24,7 +24,7 @@ En resumen, la landing page "We are launching soon!" de Ping es una estrategia p
 - [React Hook Form🔗](https://react-hook-form.com/) 
 - [React Hot Toast🔗](https://react-hot-toast.com/)
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-react/apps/04-ping-coming-soon-page/)
 
 ![ping coming soon page img demo](./src/assets/design/ping-coming-soon-page.jpg)
 

@@ -7,6 +7,7 @@ const apps = [
   "02-article-preview-component",
   "03-four-card-feature-section",
   "04-ping-coming-soon-page",
+  "05-browser-extensions-manager-ui",
   // Agrega más apps aquí
 ];
 

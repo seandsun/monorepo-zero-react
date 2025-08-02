@@ -23,7 +23,7 @@ Las principales funciones de esta interfaz es:
 
 - [React Suite🔗](https://rsuitejs.com/) 
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-react/apps/05-browser-extensions-manager-ui/)
 
 ![browser extensions manager ui img demo](./public/assets/design/browser-extensions-manager-ui-img.jpg)
 
